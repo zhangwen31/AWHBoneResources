@@ -1,0 +1,6 @@
+framework module AWHBoneResources {
+  umbrella header "AWHBoneResources.h"
+
+  export *
+  module * { export * }
+}
