@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AWHBoneResources"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.summary      = "A short description of AWHBoneResources."
 
   # This description is used to generate tags and improve search results.
@@ -138,7 +138,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = ['AWHBoneResources.framework/AWHBoneResources.bundle']
+  s.resources = ['AWHBoneResources.framework/AWHBoneResources.bundle','AWHBoneResources.framework/AWHBoneResourcesLanguage.bundle']
    #s.resource_bundles = {
    #  'AWHBoneResources' => ['AWHBoneResources.framework/AWHBoneResources.bundle']
    #}
