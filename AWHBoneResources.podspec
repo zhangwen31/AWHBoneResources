@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AWHBoneResources"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "A short description of AWHBoneResources."
 
   # This description is used to generate tags and improve search results.
@@ -86,7 +86,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
-  s.ios.deployment_target = "9.0"
+  s.ios.deployment_target = "13.0"
   # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
@@ -138,10 +138,10 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-#  s.resources = ['Resources/AWHBoneResources.bundle']
-   s.resource_bundles = {
-     'AWHBoneResources' => ['AWHBoneResources.framework/AWHBoneResources.bundle']
-   }
+  s.resources = ['AWHBoneResources.framework/AWHBoneResources.bundle']
+   #s.resource_bundles = {
+   #  'AWHBoneResources' => ['AWHBoneResources.framework/AWHBoneResources.bundle']
+   #}
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"  #保存路径
 
