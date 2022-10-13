@@ -16,6 +16,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (UIImage *)imageNamed:(NSString *)name;
 /**
+ * 获取gif图片路径
+ */
++ (NSString *)imageGifPathWithName:(NSString *)name;
+/**
  * 获取本地APP设置配置文件
  */
 + (NSDictionary *)getLocationAppSettingConfigBundle;

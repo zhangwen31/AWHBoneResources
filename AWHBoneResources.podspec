@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AWHBoneResources"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "A short description of AWHBoneResources."
 
   # This description is used to generate tags and improve search results.
