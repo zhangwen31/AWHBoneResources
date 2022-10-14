@@ -15,6 +15,10 @@ NS_ASSUME_NONNULL_BEGIN
 + (UIImage *)imageWithColor:(UIColor *)color size:(CGSize)size;
 
 + (UIImage *)imageNamed:(NSString *)name;
+
++ (NSBundle *)bundle;
+
++ (NSBundle *)bundleLanguage;
 /**
  * 获取gif图片路径
  */
