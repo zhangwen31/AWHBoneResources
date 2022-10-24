@@ -470,7 +470,7 @@
 "视频信号丢失报警"="Video Signal Lost Alarm";
 "视频信号遮挡报警"="Video Signal Blocking Alarm";
 "存储单元故障报警"="Storage Unit Fallure Alarm";
-"其他视频设备故障报警"="Other Video Equipment Failure Alarm";
+"其它视频设备故障报警"="Other Video Equipment Failure Alarm";
 "特殊报警录像达到存储阈值报警"="Special Alarm Recording Reaches The Storage Threshold Alarm";
 "视频信息"="Video Info";
 "通道"="Channel";
@@ -599,7 +599,7 @@
 "视频信号丢失报警"="Video Signal Loss Alarm";
 "视频信号遮挡报警"="Video Signal Occlusion Alarm";
 "存储单元故障报警"="Storage Unit Fault Alarm";
-"其他视频设备故障报警"="Other Video Equipment Fault Alarm";
+"其它视频设备故障报警"="Other Video Equipment Fault Alarm";
 "客车超员报警"="Bus Overload Alarm";
 "异常驾驶行为报警"="Abnormal Driving Behavior Alarm";
 "特殊报警录像达到存储阈值报警"="Special Alarm Recording Reaches The Storage Threshold Alarm";
@@ -886,7 +886,7 @@
 "视频信号丢失报警" = "Video signal loss alarm";
 "视频信号遮挡报警" = "Video signal occlusion alarm";
 "存储单元故障报警" = "The storage unit is faulty";
-"其他视频设备故障报警" = "Other video equipment fault alarm";
+"其它视频设备故障报警" = "Other video equipment fault alarm";
 "特殊报警录像达到存储阈值报警" = "Special alarm storage threshold alarm";
 "选择车辆" = "Select Car";
 "3天" = "3Days";
