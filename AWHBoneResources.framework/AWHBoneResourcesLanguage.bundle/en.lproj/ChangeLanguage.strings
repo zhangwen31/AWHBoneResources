@@ -630,9 +630,9 @@
 "复制打开此链接到浏览器即可下载最新安装包"="Copy Open this link to the browser to download the latest installation package";
 "云查车"="VVMS";
 "自我独立安装app教程"="Self install APP";
-"本视频详细介绍云查车的安装，IP端口的使用"="This video details the installation of cloud search vehicles and the use of IP ports";
+"本视频详细介绍%@的安装，IP端口的使用"="This video details the installation of %@ and the use of IP ports";
 "协助他人安装app教程"="Help others install APP";
-"本视频详细介绍协助他人云查车的安装，IP端口的使用"="This video details the installation of cloud search vehicles and the use of IP ports";
+"本视频详细介绍协助他人%@的安装，IP端口的使用"="This video details the installation of %@ and the use of IP ports";
 "正在开发中"="Under development";
 "下载成功"="Download successful";
 "保存到相册成功"="Save album successful";
@@ -973,8 +973,8 @@
 "删除确认"="Delete confirm";
 "是否确认要删除平台？"="Are you sure you want to delete the platform?";
 "同意协议背景"="Agreement Background";
-"欢迎使用云查车!"="Welcome to use VVMS!";
-"在您使用云查车前，请您认真阅读并了解《使用协议》和《隐私政策》。如果您未满14周岁，请由监护人同意。"="Before you use Cloud Car Search, please carefully read and understand the Use Agreement and Privacy Policy. If you are under the age of 14, please get the consent of your guardian.";
+"欢迎使用%@!"="Welcome to use %@!";
+"在您使用%@前，请您认真阅读并了解《使用协议》和《隐私政策》。如果您未满14周岁，请由监护人同意。"="Before you use %@, please carefully read and understand the Use Agreement and Privacy Policy. If you are under the age of 14, please get the consent of your guardian.";
 "同意"="Agree";
 "切换IP"="Switch IP";
 "单体监控"="Monitor";
@@ -1415,3 +1415,4 @@
 "banner1EN"="banner2EN";
 "StartImage"="Start";
 "EndImage"="End";
+"起始日期要小于终止日期"="Start date must be earlier than end date";
