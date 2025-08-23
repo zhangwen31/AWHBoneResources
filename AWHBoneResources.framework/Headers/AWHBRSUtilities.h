@@ -12,13 +12,15 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface AWHBRSUtilities : NSObject
 
++ (instancetype)sharedInstance;
+
 + (UIImage *)imageWithColor:(UIColor *)color size:(CGSize)size;
 
 + (UIImage *)imageNamed:(NSString *)name;
 
 + (NSBundle *)bundle;
 
-+ (NSBundle *)bundleLanguage;
+- (NSBundle *)getBundleLanguage;
 /**
  * 获取gif图片路径
  */

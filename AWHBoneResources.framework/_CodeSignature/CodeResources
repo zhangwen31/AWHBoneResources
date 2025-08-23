@@ -7938,11 +7938,15 @@
 		</dict>
 		<key>Headers/AWHBRSUtilities.h</key>
 		<data>
-		7IeX64gx0TI0RxVl9EtwHM9ZeIs=
+		RQsA11E+EXofPT0bBD8AxrtVs84=
 		</data>
 		<key>Headers/AWHBoneResources.h</key>
 		<data>
 		aTwry62msJHdHivFLT+hmqufzG8=
+		</data>
+		<key>Headers/NSDictionary+AWHBRS.h</key>
+		<data>
+		+mEn8RfB12oD40s2O5lg0k8LcNA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -29631,11 +29635,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7IeX64gx0TI0RxVl9EtwHM9ZeIs=
+			RQsA11E+EXofPT0bBD8AxrtVs84=
 			</data>
 			<key>hash2</key>
 			<data>
-			c3H/V84G9rNriJ4MGO1hzgLLcp69cNTpNcEhfY8gUg0=
+			Wt2Qy/3KnR5nBWZjtvC1XCPQalqddrX+QdV0ahhauCs=
 			</data>
 		</dict>
 		<key>Headers/AWHBoneResources.h</key>
@@ -29647,6 +29651,17 @@
 			<key>hash2</key>
 			<data>
 			bL9y9uZNXG6HL37yxMal0vOBRDyzqRTq6D9V1sI5tIc=
+			</data>
+		</dict>
+		<key>Headers/NSDictionary+AWHBRS.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+mEn8RfB12oD40s2O5lg0k8LcNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			s31S8yImAca340uYjOSUCY6x765FJpP4wrz6AkRxiWc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
