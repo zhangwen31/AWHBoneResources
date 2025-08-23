@@ -1225,7 +1225,7 @@
 "追踪"="faixa";
 "当日里程:"="Quilometragem diária:";
 "总里程:"="Quilometragem total:";
-"行停时间"="Tempo de paragem da viagem";
+"行停时长"="Tempo de paragem da viagem";
 "收缩"="encolher";
 "定位时间:"="Tempo de posicionamento:";
 "定位时间:%@"="Tempo de posicionamento:%@";

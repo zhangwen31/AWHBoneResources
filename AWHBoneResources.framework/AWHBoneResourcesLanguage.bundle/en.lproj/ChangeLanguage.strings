@@ -1231,7 +1231,7 @@
 "追踪"="Track";
 "定位时间:"="Time:";
 "收缩"="Shrink";
-"行停时间"="Run/Stop";
+"行停时长"="Run/Stop";
 "暂无车牌号"="No plate";
 "定位时间:%@"="Time:%@";
 "实时位置  %@"="Location  %@";
@@ -2017,3 +2017,4 @@
 "安装时间"="Installation Time";
 "实时拍摄照片"="Real-time photo";
 "请至少选择一个类型"="Please select at least one type";
+"报警日期"="Alarm Date";
