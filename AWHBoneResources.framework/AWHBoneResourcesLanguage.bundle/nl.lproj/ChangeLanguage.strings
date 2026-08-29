@@ -203,7 +203,7 @@
 "前两天"="Twee dagen geleden";
 "小时"="uur";
 "前三天"="De eerste drie dagen";
-"起始时间不能大于结束时间"="De begintijd kan niet groter zijn dan de eindtijd";
+"开始时间要小于结束时间"="De begintijd kan niet groter zijn dan de eindtijd";
 "文件大小"="bestandsgrootte";
 "起始时间和结束时间不能超过7天"="De start- en eindtijden mogen niet langer zijn dan 7 dagen";
 "视频时长"="Videoduur";
@@ -339,7 +339,7 @@
 "创建人员"="Creator";
 "创建时间"="Aanmaaktijd";
 "运营状况"="Operationele status";
-"终端厂家"="Terminal fabrikant";
+"终端厂商"="Terminal fabrikant";
 "指令说明"="Instructiebeschrijving";
 "请输入指令内容"="Voer de inhoud van de opdracht in";
 "请输入SIM卡号"="Voer uw simkaartnummer in";
@@ -1748,11 +1748,11 @@
 "欠费车辆总数"="Totaal aantal achterstallige voertuigen";
 "定位时间"="Positietijd";
 "收费管理"="Vergoedingsbeheer";
-"服务结束日期"="Einddatum van dienst";
+"截止日期"="Einddatum van dienst";
 "欠费方案"="Arrears-regeling";
 "备注信息"="Opmerkingen";
 "欠费短信"="Arrars SMS";
-"服务开始日期"="Beginddatum van de dienst";
+"开始日期"="Beginddatum van de dienst";
 "请输入费用"="Voer de kosten in";
 "手机号码"="Mobiel telefoonnummer";
 "离线时长"="Offline duur";

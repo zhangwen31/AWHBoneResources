@@ -199,7 +199,7 @@
 "昨天"="Hôm qua";
 "前两天"="2 ngày trước";
 "资源类型"="Loại tài nguyên";
-"起始时间不能大于结束时间"="Thời gian bắt đầu không được lớn hơn thời gian kết thúc";
+"开始时间要小于结束时间"="Thời gian bắt đầu không được lớn hơn thời gian kết thúc";
 "前三天"="Ba ngày đầu tiên";
 "起始时间和结束时间不能超过7天"="Thời gian bắt đầu và kết thúc không được vượt quá 7 ngày.";
 "文件大小"="Cỡ tập tin";
@@ -339,7 +339,7 @@
 "创建人员"="Tạo người";
 "创建时间"="Thời gian tạo";
 "运营状况"="Điều kiện hoạt động";
-"终端厂家"="Nhà máy Terminal";
+"终端厂商"="Nhà máy Terminal";
 "指令说明"="Mô tả hướng dẫn";
 "请输入SIM卡号"="Vui lòng nhập số thẻ SIM";
 "短信指令编辑"="Hướng dẫn SMS Edit";
@@ -1747,7 +1747,7 @@
 "存储故障总数"="Tổng số lỗi lưu trữ";
 "离线时长"="Thời gian offline";
 "定位时间"="Thời gian định vị";
-"服务结束日期"="Ngày kết thúc dịch vụ";
+"截止日期"="Ngày kết thúc dịch vụ";
 "收费金额"="Số tiền thu phí";
 "欠费方案"="Chương trình nợ";
 "收费管理"="Quản lý phí";
@@ -1756,7 +1756,7 @@
 "备注信息"="Thông tin nhận xét";
 "停用车辆"="Dừng xe";
 "请输入费用"="Vui lòng nhập phí";
-"服务开始日期"="Ngày bắt đầu dịch vụ";
+"开始日期"="Ngày bắt đầu dịch vụ";
 "提前"="Trước";
 "停止历史轨迹查询"="Dừng truy vấn theo dõi lịch sử";
 "停止实时定位推送"="Dừng đẩy vị trí thời gian thực";

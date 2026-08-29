@@ -202,7 +202,7 @@
 "昨天"="Hier";
 "今天"="Aujourd'hui";
 "前两天"="Les deux premiers jours";
-"起始时间不能大于结束时间"="L'heure de début ne peut pas être supérieure à l'heure de fin";
+"开始时间要小于结束时间"="L'heure de début ne peut pas être supérieure à l'heure de fin";
 "前三天"="Les trois premiers jours";
 "起始时间和结束时间不能超过7天"="Les heures de début et de fin ne peuvent pas dépasser 7 jours";
 "文件大小"="Taille du fichier";
@@ -342,7 +342,7 @@
 "请输入SIM卡号"="Veuillez entrer le numéro de carte SIM";
 "指令说明"="Description des directives";
 "短信指令编辑"="Instructions SMS Modifier";
-"终端厂家"="Fabricants de terminaux";
+"终端厂商"="Fabricants de terminaux";
 "请输入指令内容"="Veuillez entrer le contenu de la directive";
 "终端标识"="Identification du terminal";
 "报修时间"="Temps de déclaration";
@@ -1750,12 +1750,12 @@
 "欠费方案"="Programme des arriérés de frais";
 "请输入费用"="Veuillez entrer les frais";
 "离线时长"="Durée hors ligne";
-"服务开始日期"="Date de début du Service";
+"开始日期"="Date de début du Service";
 "定位时间"="Temps de positionnement";
 "停用车辆"="Désactiver le véhicule";
 "欠费短信"="SMS d'arriérés";
 "收费金额"="Montant facturé";
-"服务结束日期"="Date de fin de service";
+"截止日期"="Date de fin de service";
 "备注信息"="Remarques informations";
 "收费管理"="Gestion des frais";
 "停止历史轨迹查询"="Arrêter la requête de piste historique";

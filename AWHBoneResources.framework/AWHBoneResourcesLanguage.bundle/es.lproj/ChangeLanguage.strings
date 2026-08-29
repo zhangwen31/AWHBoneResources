@@ -202,7 +202,7 @@
 "小时"="Horas";
 "昨天"="Ayer.";
 "前两天"="Hace dos días";
-"起始时间不能大于结束时间"="La hora de inicio no puede ser mayor que la hora de fin";
+"开始时间要小于结束时间"="La hora de inicio no puede ser mayor que la hora de fin";
 "前三天"="Los tres primeros días";
 "起始时间和结束时间不能超过7天"="La hora de inicio y la hora de finalización no pueden exceder los 7 días.";
 "视频时长"="Duración del vídeo";
@@ -339,7 +339,7 @@
 "创建时间"="Tiempo de creación";
 "创建人员"="Crear personas";
 "请输入SIM卡号"="Introduzca el número de tarjeta SIM";
-"终端厂家"="Fabricante de terminales";
+"终端厂商"="Fabricante de terminales";
 "运营状况"="Situación operativa";
 "指令说明"="Instrucciones";
 "请输入指令内容"="Por favor, introduzca el contenido de la instrucción.";
@@ -1747,9 +1747,9 @@
 "离线3天内"="Fuera de línea durante 3 días";
 "离线7天内"="Dentro de los 7 días fuera de línea";
 "定位时间"="Tiempo de posicionamiento";
-"服务开始日期"="Fecha de inicio del servicio";
+"开始日期"="Fecha de inicio del servicio";
 "离线时长"="Duración fuera de línea";
-"服务结束日期"="Fecha de finalización del servicio";
+"截止日期"="Fecha de finalización del servicio";
 "手机号码"="Número de teléfono móvil";
 "欠费方案"="Plan de atrasos";
 "收费管理"="Gestión de tarifas";

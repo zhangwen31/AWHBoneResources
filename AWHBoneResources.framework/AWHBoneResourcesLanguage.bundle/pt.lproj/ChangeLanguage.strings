@@ -201,7 +201,7 @@
 "今天"="hoje";
 "昨天"="ontem";
 "查 询"="Consulta";
-"起始时间不能大于结束时间"="A hora de início não pode ser maior do que a hora de fim";
+"开始时间要小于结束时间"="A hora de início não pode ser maior do que a hora de fim";
 "前两天"="Há dois dias atrás";
 "前三天"="Os primeiros três dias";
 "起始时间和结束时间不能超过7天"="Os tempos de início e fim não podem exceder 7 dias";
@@ -339,7 +339,7 @@
 "创建时间"="Tempo de criação";
 "欠费日期"="Data de vencimento";
 "运营状况"="Situação operacional";
-"终端厂家"="Fabricante do terminal";
+"终端厂商"="Fabricante do terminal";
 "指令说明"="Descrição da Instrução";
 "请输入SIM卡号"="Introduza o número do seu cartão SIM";
 "短信指令编辑"="Edição de comandos SMS";
@@ -1749,11 +1749,11 @@
 "定位时间"="Tempo de posicionamento";
 "收费管理"="Gestão das taxas";
 "手机号码"="Número de telemóvel";
-"服务开始日期"="Data de início do serviço";
+"开始日期"="Data de início do serviço";
 "收费金额"="Montante da taxa";
 "备注信息"="Observações";
 "欠费方案"="Esquema de Arrears";
-"服务结束日期"="Data de Fim do Serviço";
+"截止日期"="Data de Fim do Serviço";
 "欠费短信"="Arrars SMS";
 "请输入费用"="Indique por favor o custo";
 "停用车辆"="Parar o veículo";
